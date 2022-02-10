@@ -1,0 +1,11 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+git_source(:github) {|modelWebsite| "https://github.com/newtfire/modelWebsite" }
+
+# gem "rails"
+
+gem "jekyll"
+gem "tomlrb"
+gem "webrick"
